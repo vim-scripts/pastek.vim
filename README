@@ -2,4 +2,6 @@ This is a mirror of http://www.vim.org/scripts/script.php?script_id=4730
 
 Pastek is a lightweight Markdown-like markup language. This script adds syntax support to Vim for *.pastek files.
 
-https://github.com/pastek-project
+https://github.com/pastek-project/pastek
+
+Note: in 2014, Pastek was rewritten by its author and its syntax changed. This file is for the 2013 syntax.
